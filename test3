@@ -1,0 +1,40 @@
+# Encabezado Principal
+
+Este es un párrafo con **negrita y *cursiva*.
+
+## Subencabezado
+
+- Lista de ítem uno
+Lista de ítem dos (debería estar precedida por un guion)
+- Lista de ítem tres
+
+> Esta es una cita.
+
+[Enlace a OpenAI(https://www.openai.com)
+
+![Imagen de ejemplo](https://www.example.com/image.png)
+
+`Código en línea
+
+Texto adicional después de varios elementos.
+
+### Subsubencabezado
+
+Más texto aquí con **negrita y *cursiva mezclados.
+
+Otra lista:
+
+- Primer ítem
+- Segundo ítem
+Tercer ítem (debería estar precedida por un guion)
+
+> Otra cita para probar.
+
+![Otra imagen](https://www.example.com/another-image.png)
+
+[Otro enlace](https://www.example.org
+
+Texto sin un encabezado o lista.
+
+Encabezado con un # extra ### y error de formato
+Texto después del encabezado con error de formato
